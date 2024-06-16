@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https:/anjali-verma-591627125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:/anjali-verma-591627125" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjali-verma-591627125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:/anjali-verma-591627125" height="30" width="40" /></a>
 <a href="https://medium.com/@veranjali2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@veranjali2503" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/veranjali2503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="veranjali2503" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/veranjali2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="veranjali2503" height="30" width="40" /></a>
